@@ -1,0 +1,15 @@
+# ninja log v5
+12	211	7250424120893806	build.ninja	f5440b241bdff274
+3	111	7250320637099108	CMakeFiles/su20_lab_starter.dir/lab01/eccentric.c.obj	9120af269327c2d6
+126	359	7250391093964445	su20_lab_starter.exe	eaed9003f4d7df44
+2	113	7250324278329812	CMakeFiles/su20_lab_starter.dir/lab01/hello.c.obj	a05a491aecfea595
+1	124	7250391091650140	CMakeFiles/su20_lab_starter.dir/lab01/interactive_hello.c.obj	88a7d49128af5437
+1	123	7250423715969952	CMakeFiles/su20_lab_starter.dir/lab01/test_ll_cycle.c.obj	f4b134e1c98edb5b
+3	90	7250424152458133	CMakeFiles/su20_lab_starter.dir/lab01/ll_cycle.c.obj	193cc00e89fcba49
+91	312	7250424154627547	su20_lab_starter.exe	f5e0b60da6fd1e5b
+2	91	7250424532053052	CMakeFiles/su20_lab_starter.dir/lab01/ll_cycle.c.obj	193cc00e89fcba49
+93	314	7250424534229622	su20_lab_starter.exe	f5e0b60da6fd1e5b
+3	93	7250429343801942	CMakeFiles/su20_lab_starter.dir/lab01/ll_cycle.c.obj	193cc00e89fcba49
+94	314	7250429345963807	su20_lab_starter.exe	f5e0b60da6fd1e5b
+3	92	7250429877015847	CMakeFiles/su20_lab_starter.dir/lab01/ll_cycle.c.obj	193cc00e89fcba49
+93	313	7250429879165855	su20_lab_starter.exe	f5e0b60da6fd1e5b
